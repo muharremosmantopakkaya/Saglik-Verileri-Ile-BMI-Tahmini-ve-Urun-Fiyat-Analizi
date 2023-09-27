@@ -19,6 +19,4 @@ Bu proje, verilen sağlık verileri (yaş, kilo, boy) ile bir kişinin BMI (Vüc
 - csv
 - numpy
 
-## Lisans
-Bu proje MIT lisansı altında lisanslanmıştır. (Eğer projeniz bir lisansa sahipse bu bölümü ekleyebilirsiniz.)
 
